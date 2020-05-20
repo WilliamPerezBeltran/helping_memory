@@ -1,0 +1,3 @@
+rootProject.name = 'helpingMemory'
+
+include ':app'
